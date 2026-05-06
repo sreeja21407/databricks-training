@@ -1,4 +1,4 @@
-##SQL Practice Queries (Employee-Department-Project Database)
+SQL Practice Queries (Employee-Department-Project Database)
 
 Overview
 
