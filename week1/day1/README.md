@@ -150,3 +150,4 @@ Conclusion
 
 This collection of 65 queries provides a complete SQL practice set, covering everything from fundamentals to advanced concepts in a structured way.
 
+Happy Learning
