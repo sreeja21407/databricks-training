@@ -2,8 +2,6 @@
 -- 1. TABLE CREATION AND DATA INSERTION
 -- ==========================================
 
--- Note: The document provided an INSERT statement into 'orders' but defined 'employees'. 
--- This script fixes the table name in the insert to match 'employees' so the data loads correctly.
 
 CREATE TABLE employees (    
     emp_id INT,    
